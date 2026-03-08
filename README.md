@@ -4,7 +4,7 @@
 
 ### Interests
 
-Asset Pricing | Quantitative Finance | Algorithmic Trading | Machine Learning
+Empirical Asset Pricing | Causal ML | Quantitative Finance | Algorithmic Trading
 
 ### 실감
 
