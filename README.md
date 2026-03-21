@@ -1,10 +1,11 @@
 ### Info
 
-[[website]](https://www.rouxist.com/) [[cv]](https://www.rouxist.com/assets/cv/cv_20251203.pdf) [[linkedin]](https://www.linkedin.com/in/yongjin-kang/)
+[[website]](https://www.rouxist.com/) [[cv]](https://www.rouxist.com/assets/cv/cv_20260321.pdf) [[linkedin]](https://www.linkedin.com/in/yongjin-kang/)
 
 ### Interests
 
-Empirical Asset Pricing | Causal ML | Quantitative Finance | Algorithmic Trading
+Empirical Asset Pricing | Cryptocurrencies | Stablecoins  
+Causal ML | Quantile Regression
 
 ### 실감
 
